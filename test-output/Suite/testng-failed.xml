@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="Amazonaws.org.AdminDepot.TestScriptFile">
+        <methods>
+          <include name="ValidateUserCreation"/>
+        </methods>
+      </class> <!-- Amazonaws.org.AdminDepot.TestScriptFile -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
